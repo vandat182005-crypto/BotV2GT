@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "🥕 Hạt Cà rốt",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 2,
+    "name": "🌼 Hạt Giống Hoa Cúc (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 3,
+    "name": "🍓 Hạt Dâu Tây",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 4,
+    "name": "🌼 Hạt Giống Hoa Lưu Ly (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 5,
+    "name": "🍆 Hạt Việt Quất",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 6,
+    "name": "🌼 Hạt Giống Hoa Cát Cánh (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 7,
+    "name": "🌼 Hạt Giống Hoa Đăng Tiêu (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 8,
+    "name": "🌼 Hạt Giống Hoa Linh Lan (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 9,
+    "name": "🍄 Hạt Nấm",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 10,
+    "name": "🌽 Hạt Bắp",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 11,
+    "name": "🍅 Hạt Cà chua",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 12,
+    "name": "🌰 Hạt Giống Sung",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 13,
+    "name": "🍒 Hạt Anh đào",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 14,
+    "name": "🌼 Hạt Giống Cẩm Tú Cầu (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 15,
+    "name": "🌼 Hạt Giống Hoa Loa Kèn (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 16,
+    "name": "🌵 Hạt Xương Rồng",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 17,
+    "name": "🍎 Hạt Táo",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 18,
+    "name": "🍇 Hạt Nho",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 19,
+    "name": "🍈 Hạt Giống Mãn Cầu",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 20,
+    "name": "🎃 Hạt Bí Ngô",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 21,
+    "name": "🌼 Hạt Giống Hoa Hồng (Trắng)",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 22,
+    "name": "🍉 Hạt Dưa Hấu",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 23,
+    "name": "🥥 Hạt Dừa",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 24,
+    "name": "🥭 Hạt Xoài",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 25,
+    "name": "🍊 Hạt Giống Đu Đủ",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 26,
+    "name": "🥜 Hạt Cây Đậu",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 27,
+    "name": "🍍 Hạt Khế",
+    "time": 0,
+    "ready": true
+  },
+  {
+    "id": 28,
+    "name": "🍏 Hạt Táo Đường",
+    "time": 0,
+    "ready": true
+  }
+]
